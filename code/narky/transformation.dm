@@ -206,6 +206,7 @@
 	New()
 		..()
 		icon_state="egg[rand(0,2)]"
+		incubate()
 
 	Life()
 		vore_transform_index=-200
